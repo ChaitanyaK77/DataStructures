@@ -1,9 +1,4 @@
-/*
-AIM:Write a menu driven program to implement QUEUE ADT using arrays.
-Name:Chaitanya Kakade
-Roll NO.:2104076
-Batch:C21
-*/
+
 
 #include <stdio.h>
 #define MAX 10
