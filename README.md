@@ -1,7 +1,8 @@
 # DataStructures
 This repository showcases a collection of data structure simulations implemented in C.
 
-Repository Name: Data Structure Simulations in C
+**Repository Name: **
+Data Structure Simulations in C
 
 Description:
 This repository showcases a collection of data structure simulations implemented in C, providing a hands-on learning experience for understanding fundamental data structures and their operations. Each simulation is carefully designed to demonstrate the underlying concepts and functionalities of popular data structures, aiding learners in building a strong foundation in programming and problem-solving.
