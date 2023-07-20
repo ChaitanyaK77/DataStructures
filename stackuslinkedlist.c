@@ -1,9 +1,4 @@
-/*
-AIM: Write a Menu driven code to implement STACK ADT using LINKED LIST
-Name:Chaitanya Kakade
-Batch:C21
-Roll No.:2104076
-*/
+
 
 #include <stdio.h>
 #include <stdlib.h>
